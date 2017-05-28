@@ -1,0 +1,9 @@
+409 433 conflict
+693 708 confront
+1215 1278 confused
+1519 1544 congratulations
+1795 1825 connect
+2017 2033 conquer-fr
+2307 2347 consider
+2562 2673 consistent
+2881 2938 constant1

@@ -1,0 +1,7 @@
+890 952 comfortable
+1388 1429 communicate-fr
+2217 2247 community
+2512 2569 commute-fr
+3132 3172 company2
+3529 3560 compare
+3779 3814 compete-fr

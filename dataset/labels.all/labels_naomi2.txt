@@ -1,0 +1,7 @@
+262 298 complain
+525 553 complete\_full
+865 890 computer1-fr
+2620 2642 concept1
+3041 3070 conclusion
+4570 4597 confident-fr
+4787 4815 conflict

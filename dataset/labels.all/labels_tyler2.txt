@@ -1,0 +1,7 @@
+313 369 complain
+570 585 complete\_full
+818 880 computer1-fr
+1295 1309 concept1
+1547 1571 conclusion
+3184 3202 confident-fr
+3424 3436 conflict

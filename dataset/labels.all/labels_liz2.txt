@@ -1,0 +1,7 @@
+352 392 compete-fr
+549 600 complain
+775 810 complete\_full
+1023 1052 computer1-fr
+1710 1752 concept1
+2085 2119 conclusion
+3366 3381 confident-fr

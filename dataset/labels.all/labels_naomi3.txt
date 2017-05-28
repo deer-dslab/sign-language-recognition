@@ -1,0 +1,8 @@
+330 347 confront
+842 876 confused
+1071 1095 congratulations
+1311 1336 connect
+1531 1546 conquer-fr
+1740 1775 consider
+1990 2060 consistent
+2280 2340 constant1

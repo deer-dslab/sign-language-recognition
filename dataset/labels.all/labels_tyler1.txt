@@ -1,0 +1,7 @@
+533 568 comfortable
+1382 1435 communicate-fr
+2328 2369 community
+2628 2672 commute-fr
+2862 2906 company2
+3328 3377 compare
+3653 3697 compete-fr
